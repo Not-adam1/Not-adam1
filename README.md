@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Not-adam1
-- 👀 I’m interested in ... wb development
+- 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... mainly javascript and css (i already know quite a lot of html)
 - 💞️ I’m looking to collaborate on ... uhhhh... nothing🤐
 - 📫 How to reach me ... comment on my post (idk if its possible im new😅)
